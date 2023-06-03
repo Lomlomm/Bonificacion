@@ -2,7 +2,7 @@
   "name": "bonificacion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lomlomm.github.io/Sistema-Recompensas",
+  "homepage": "http://lomlomm.github.io/Bonificacion",
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.3",
     "@testing-library/jest-dom": "^5.16.5",
